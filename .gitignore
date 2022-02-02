@@ -1,0 +1,15 @@
+Cipher_Rabbit_Implementation/.vs/
+Cipher_Rabbit_Implementation/[Bb]in/
+Cipher_Rabbit_Implementation/[Oo]bj/
+Cipher_Rabbit_Implementation/[Dd]ebug/
+Cipher_Rabbit_Implementation/[Dd]ebugPublic/
+Cipher_Rabbit_Implementation/[Rr]elease/
+Cipher_Rabbit_Implementation/[Rr]eleases/
+
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+mono_crash.*

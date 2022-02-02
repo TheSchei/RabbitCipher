@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cipher_Rabbit_Implementation/1.0.0": {
+        "runtime": {
+          "Cipher_Rabbit_Implementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cipher_Rabbit_Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
